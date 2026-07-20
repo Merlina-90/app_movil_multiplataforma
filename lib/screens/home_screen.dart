@@ -199,7 +199,7 @@ class _EmptyProductsView extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             const Text(
-              "Agrega tu primer producto usando el botón de abajo.",
+              "Agrega tu primer producto usando el botón de abajo +.",
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.black54,
